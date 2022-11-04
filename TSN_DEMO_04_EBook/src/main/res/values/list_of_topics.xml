@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="lec00">    Содержание</string>
+    <string name="lec01">01. Науки</string>
+    <string name="lec02">02. Происхождение человека</string>
+    <string name="lec03">03. Строение</string>
+    <string name="lec04">04. Опорно-двигательная</string>
+    <string name="lec05">05. Внутренняя среда</string>
+    <string name="lec06">06. Дыхание</string>
+    <string name="lec07">07. Пищеварение</string>
+    <string name="lec08">08. Кожа</string>
+    <string name="lec09">09. Выделение</string>
+    <string name="lec10">10. Зрение</string>
+    <string name="lec11">11. Слух</string>
+    <string name="lec12">12. Нервная система</string>
+    <string name="prog">     Программы</string>
+
+</resources>
